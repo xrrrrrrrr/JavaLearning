@@ -4,7 +4,7 @@
 
   - [基本数据类型]
 
-  - [关键字](master/docs/basics/keywords.md)
+  - [关键字](docs/basics/keywords.md)
 
   - [String]
 
