@@ -653,5 +653,7 @@ synchronized关键字是防止多个线程同时执行一段代码，那么就�
 
 > 参考：
 > [Java中Volatile关键字详解](https://www.cnblogs.com/zhengbin/p/5654805.html)
+
 > [Java并发编程：volatile关键字解析](https://www.cnblogs.com/dolphin0520/p/3920373.html)
+
 > [Java volatile关键字最全总结]( https://blog.csdn.net/u012723673/article/details/80682208#%E5%85%AB%E3%80%81%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%8F%8C%E9%87%8D%E9%94%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0volatile)
