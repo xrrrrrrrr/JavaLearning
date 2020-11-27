@@ -1,6 +1,6 @@
 ## 1.Java异常类层次结构图
 
-![img](E:\软件\Typora\images\20180920165502957)
+![img](./images/1.jpg)
 
 Throwable是所有异常类型的基类，Throwable下一层分为两个分支，Error和Exception
 
